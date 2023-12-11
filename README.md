@@ -35,10 +35,10 @@ This project aims to build and train a machine learning model to classify handwr
 - TensorFlow documentation
 - MNIST dataset contributors
 
-## Data Analysis
+# Data Analysis
 Exploratory Data Analysis with Pandas, NumPy, Seaborn, and Matplotlib
 
-# Import Libraries :
+## Import Libraries :
  - import pandas as pd: Pandas is a powerful library for data manipulation and analysis.
  - import numpy as np: NumPy is used for numerical operations in Python.
  - import seaborn as sns: Imports the Seaborn library for statistical data visualization.
